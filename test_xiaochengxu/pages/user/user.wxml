@@ -1,0 +1,6 @@
+<!--pages/user/user.wxml-->
+<text>pages/user/user.wxml</text>
+
+文本
+<text>2222222222222</text>
+<text>当前时间：{{time}}</text>
